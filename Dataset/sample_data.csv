@@ -1,0 +1,11 @@
+customer_id,age,gender,item_purchased,category,purchase_amount,location,size,color,season,review_rating,subscription_status,shipping_type,discount_applied,previous_purchases,payment_method,frequency_of_purchases,age_group,purchase_frequency_days,total_spend
+39001,65,Male,Shirt,Clothing,51.84,San Jose,XL,Red,Spring,3.3,Yes,Express,Yes,7,Venmo,Monthly,Senior,30,1555.2
+39002,30,Female,Shorts,Clothing,104.48,San Jose,L,Red,Summer,4.1,No,Free Shipping,No,15,Debit Card,Annually,Adult,365,38135.2
+39003,24,Female,Sandals,Footwear,69.39,New York,XL,Blue,Winter,3.7,Yes,2-Day Shipping,No,23,Venmo,Weekly,Young-Adult,7,485.73
+39004,30,Female,Scarf,Accessories,29.04,Los Angeles,M,Blue,Winter,4.3,No,Next Day Air,No,50,Debit Card,Annually,Adult,365,10599.6
+39005,31,Male,Belt,Accessories,54.71,San Jose,M,Black,Summer,4.9,No,Next Day Air,No,42,Venmo,Annually,Adult,365,19969.15
+39006,67,Female,Sandals,Footwear,27.27,Phoenix,S,Black,Fall,4.6,Yes,Store Pickup,No,21,Cash,Every 3 Months,Senior,90,2454.3
+39007,34,Female,Coat,Outerwear,52.06,San Jose,XL,Yellow,Summer,4.1,Yes,2-Day Shipping,No,17,Credit Card,Fortnightly,Adult,14,728.84
+39008,27,Male,Shirt,Clothing,40.8,San Antonio,XL,Pink,Fall,4.4,Yes,Store Pickup,Yes,39,Venmo,Annually,Young-Adult,365,14892
+39009,25,Female,Belt,Accessories,76.52,Dallas,M,Blue,Fall,3.9,Yes,Express,No,47,Debit Card,Monthly,Young-Adult,30,2295.6
+39010,38,Male,Shorts,Clothing,22.53,New York,M,Blue,Spring,4.9,No,Standard,Yes,20,Debit Card,Quarterly,Adult,90,2027.7
